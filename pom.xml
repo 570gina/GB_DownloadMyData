@@ -190,7 +190,7 @@
             <artifactId>Common</artifactId>
             <version>${openespi-common.version}</version>
             <scope>system</scope>
-            <systemPath>${basedir}\lib\Common-1.3-SNAPSHOT.jar</systemPath>
+            <systemPath>${basedir}/lib/Common-1.3-SNAPSHOT.jar</systemPath>
         </dependency>
 <!--         <dependency> -->
 <!--             <groupId>org.springframework.security</groupId> -->
